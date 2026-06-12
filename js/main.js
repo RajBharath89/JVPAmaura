@@ -37,7 +37,7 @@
     { img: "images/gallery-2.jpg", alt: "Master bedroom" },
     { img: "images/gallery-3.jpg", alt: "Modular kitchen" },
     { img: "images/gallery-4.jpg", alt: "Entrance lobby" },
-    { img: "images/amenities.jpg", alt: "Rooftop deck" }
+    { img: "images/gallery-5.jpg", alt: "Rooftop deck" }
   ];
 
   var specs = [
